@@ -1,6 +1,6 @@
 # [Cute-winter-landing]
 
-Cute winter landing page - https://portfolio-sole-ochre-pi.vercel.app/
+Cute winter landing page - https://cute-winter-landing.vercel.app/
 
 * Going to make it mobile responsive
 * Going to add something to hero-section
